@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on traffic fatality and injury prevention analysis
 - 🌱 I’m currently learning to improve on my R coding skills
-- 👯 I’m looking to collaborate on racial disparities regarding infectious diseases
+- 👯 I’m looking to collaborate on racial disparities and infectious diseases projects
 - 🤔 I’m looking for help with improving my data visualization skills
 - 💬 Ask me about public health and health disparities
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/briana-thrift-she-her-9ba9a9122/
