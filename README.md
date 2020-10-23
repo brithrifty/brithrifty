@@ -9,7 +9,7 @@
 - 😄 Pronouns: she/Her/Hers
 - ⚡ Fun fact: I lived in Uganda for a summer to conduct research on HIV and TB co-infection
 - ✨ Education: Master in Public Health: Epidemiology and Biostatistics
-- ✨ Interests: Helping marginalized communities leverage data science to emphasize problematic trends and needs for societal improvement. 
+- ✨ Interests: Helping marginalized communities leverage data science to emphasize trends and needs for improvement. 
 
 <!--
 **brithrifty/brithrifty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
